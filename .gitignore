@@ -1,0 +1,10 @@
+.sass-cache
+templates_c
+bower_components
+.DS_Store
+node_modules
+npm-debug.log
+_notes
+,*
+prepros.cfg
+_compareTemp
